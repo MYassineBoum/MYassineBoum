@@ -1,5 +1,3 @@
-![counter](https://engtvoyc3km176a.m.pipedream.net)
-
 ### Hi there! 👋
 
 - 🔭 Sofware Engineering student at ENSIAS.
@@ -24,3 +22,7 @@ http://myboum.me/
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+### Profile views 👀
+
+![counter](https://engtvoyc3km176a.m.pipedream.net)
