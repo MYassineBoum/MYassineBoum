@@ -1,4 +1,4 @@
-### Profile views
+### Hits
 
 [![HitCount](https://hits.dwyl.com/MYassineBoum/MYassineBoum/READMEmd.svg?style=flat-square)](http://hits.dwyl.com/MYassineBoum/MYassineBoum/READMEmd)
 
