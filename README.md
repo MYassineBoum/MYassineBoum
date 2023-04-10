@@ -4,7 +4,7 @@
 - 🌱 Learning new technologies, and ready for any new opportunities.
 - 📫 How to reach me: myboumehdi.2002@gmail.com
 
-### My website 👀
+### My portfolio 👀
 
 http://myboum.me/
 
