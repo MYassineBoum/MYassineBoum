@@ -30,7 +30,7 @@
 </div>
 
 
-### :hammer_and_wrench: Skills
+## :hammer_and_wrench: Skills
 
 <div style="background-color: #F3DEBA" align="center">
   <a href="#"><img onclick="#" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
