@@ -9,6 +9,8 @@
 </p>
 
 <a href="https://github.com/MYassineBoum">![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<a href="https://twitter.com/@MedooIsBack">![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.instagram.com/m_edya02/">![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 ### My portfolio 👀
 
