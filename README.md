@@ -21,10 +21,12 @@
   <img src="https://komarev.com/ghpvc/?username=MYassineBoum&style=flat-square&color=blue" alt=""/>
 </div>
 
-logo={Portfolio}
-logoColor={E86A33}
+<div align="center">
+  <h2>Portfolio</h2>
+  <h3><a href="http://myboum.me/">Click Me!</a></h3>
+</div>
 
-http://myboum.me/
+
 
 ### :hammer_and_wrench: Skills
 
