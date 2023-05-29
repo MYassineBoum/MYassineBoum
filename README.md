@@ -21,7 +21,8 @@
   <img src="https://komarev.com/ghpvc/?username=MYassineBoum&style=flat-square&color=blue" alt=""/>
 </div>
 
-### My portfolio 👀
+logo={Portfolio}
+logoColor={E86A33}
 
 http://myboum.me/
 
