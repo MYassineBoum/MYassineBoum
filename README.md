@@ -30,7 +30,6 @@
 </div>
 
 
-
 ### :hammer_and_wrench: Skills
 
 <div align="center">
@@ -54,5 +53,8 @@
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="DigitalOcean" **alt="DigitalOcean" width="40" height="40"/>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
-  
 </div>
+    
+### :fire: My Stats:
+https://github-readme-streak-stats.herokuapp.com/?user=MYassineBoum
+
