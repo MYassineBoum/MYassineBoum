@@ -5,7 +5,7 @@
 - 📫 Reach me at: myboumehdi.2002@gmail.com
 
 <p align="center">
-  <img src="https://cdn.vox-cdn.com/thumbor/sbxZKxOtUzdGVWf-68wC0wXB4s4=/0x0:1020x765/1400x1050/filters:focal(510x382:511x383)/cdn.vox-cdn.com/uploads/chorus_asset/file/15480639/bryan_cranston_breaking_bad1_1020.0.1440791447.jpg"/>
+  <img src="https://images.hdqwalls.com/download/fiery-sunset-4k-bu-1600x900.jpg"/>
 </p>
 
 ![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
