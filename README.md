@@ -57,7 +57,7 @@
     
 ### :fire: My Stats:
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=MYassineBoum&theme=dark&background=000000"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=MYassineBoum&theme=radical&background=000000"/>
 </div> 
 
 
