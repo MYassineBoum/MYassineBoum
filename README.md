@@ -4,7 +4,7 @@
 - 🌱 Learning new technologies, and ready for any new opportunities.
 - 📫 Reach me at: myboumehdi.2002@gmail.com
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![MYassineBoum](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ### My portfolio 👀
 
