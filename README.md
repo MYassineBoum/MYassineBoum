@@ -32,7 +32,7 @@
 
 ### :hammer_and_wrench: Skills
 
-<div align="center">
+<div style="background-color: #ffff0g; border-style: solid; border-color: #000000" align="center">
   <a href="#"><img onclick="#" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
