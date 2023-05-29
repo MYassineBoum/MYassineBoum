@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <h2>Portfolio
+  <h2>:fire: Portfolio :fire:
   <br>
     https://myboum.me/
   </h2>
