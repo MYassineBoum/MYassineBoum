@@ -5,7 +5,7 @@
 - 📫 Reach me at: myboumehdi.2002@gmail.com
 
 <p align="center">
-  <img src="https://wallpaperaccess.com/download/pixel-art-gif-8351153"/>
+  <img src="https://wallpaperaccess.com/full/5927911.gif"/>
 </p>
 
 ![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
