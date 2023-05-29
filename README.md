@@ -5,7 +5,7 @@
 - 📫 Reach me at: myboumehdi.2002@gmail.com
 
 <p align="center">
-  <img src="https://images.hdqwalls.com/download/fiery-sunset-4k-bu-1600x900.jpg"/>
+  <img src="https://wallpaperaccess.com/full/346725.jpg"/>
 </p>
 
 ![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
