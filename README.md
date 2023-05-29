@@ -8,7 +8,7 @@
   <img src="https://wallpaperaccess.com/full/5927911.gif"/>
 </p>
 
-![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+<a href="https://github.com/MYassineBoum">![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 
 ### My portfolio 👀
 
