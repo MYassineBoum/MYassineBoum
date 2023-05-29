@@ -4,6 +4,10 @@
 - 🌱 Learning new technologies, and ready for any new opportunities.
 - 📫 Reach me at: myboumehdi.2002@gmail.com
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 ![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ### My portfolio 👀
