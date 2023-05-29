@@ -23,7 +23,7 @@
 
 <div align="center">
   <h2>Portfolio</h2>
-  <p><a href="http://myboum.me/">Click Me!</a></p>
+  myboum.me
 </div>
 
 
