@@ -22,6 +22,10 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/github/stars/MYassineBoum?style=social"/>
+</div>
+            
+<div align="center">
   <h2>:fire: Portfolio :fire:
   <br>
     https://myboum.me/
