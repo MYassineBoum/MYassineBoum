@@ -8,13 +8,15 @@
   <img src="https://wallpaperaccess.com/full/5927911.gif"/>
 </p>
 
-<a href="https://github.com/MYassineBoum">![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/myassineboumehdi/">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)</a>
-<a href="https://twitter.com/@MedooIsBack">![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.instagram.com/m_edya02/">![Instagram](https://img.shields.io/badge/Instagram-E76161?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<div align="center">
+  <a href="https://github.com/MYassineBoum">![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/myassineboumehdi/">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)</a>
+  <a href="https://twitter.com/@MedooIsBack">![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+  <a href="https://www.instagram.com/m_edya02/">![Instagram](https://img.shields.io/badge/Instagram-E76161?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+</div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MYassineBoum&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=MYassineBoum&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### My portfolio 👀
