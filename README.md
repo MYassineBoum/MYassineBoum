@@ -55,7 +55,7 @@
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
 </div>
     
-### :fire: My Stats:
+### :fire: Stats
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=MYassineBoum&theme=radical&background=000000"/>
 </div> 
