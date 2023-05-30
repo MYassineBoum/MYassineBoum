@@ -32,7 +32,7 @@
 ### :hammer_and_wrench: Skills
 
 <div align="center">
-  <a href="#"><img onclick="#" src="https://img.shields.io/badge/C%20language-323330?style=for-the-badge&logo=c&logoColor=F7DF1E" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <a href="#"><img onclick="#" src="https://img.shields.io/badge/C%20language-323330?style=for-the-badge&logo=c&logoColor=F7DF1E" title="C" alt="C"/>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
