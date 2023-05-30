@@ -16,11 +16,7 @@
   <a href="https://myboum.me/"><img src="https://img.shields.io/badge/website-643A6B?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MYassineBoum&style=flat-square&color=blue" alt=""/>
-</div>
 
 <br>
 
