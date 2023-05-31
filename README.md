@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🔭 Sofware Engineering student at ENSIAS.
+- 🔭 Sofware Engineer.
 - 🌱 Learning new technologies, and ready for any new opportunities.
 - 📫 Reach me at: myboumehdi.2002@gmail.com
 
