@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🔭 Sofware Engineer.
+- 🔭 Software Engineer.
 - 🌱 Learning new technologies, and ready for any new opportunities.
 - 📫 Reach me at: myboumehdi.2002@gmail.com
 
