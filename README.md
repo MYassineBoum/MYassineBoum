@@ -7,8 +7,9 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/bb/93/8b/bb938bd50fcfedccd720641f5a824bba.gif"/>
 </p>
-<br>
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=MYassineBoum">
+</p>
 <br>
 <div align="center">
   <a href="https://github.com/MYassineBoum"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></a>
