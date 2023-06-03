@@ -24,7 +24,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/MYassineBoum?style=social"/>
+  <a href="#"><img src="https://img.shields.io/github/stars/MYassineBoum?style=social"/></a>
 </div>
            
 
