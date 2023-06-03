@@ -60,7 +60,7 @@
     
 ### :fire: Stats
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=MYassineBoum&theme=radical&background=000000"/>
+  <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=MYassineBoum&theme=radical&background=000000"/></a>
 </div> 
 
 
