@@ -8,7 +8,7 @@
   <img src="https://i.pinimg.com/originals/bb/93/8b/bb938bd50fcfedccd720641f5a824bba.gif"/>
 </p>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MYassineBoum">
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=MYassineBoum"></a>
 </p>
 <br>
 <div align="center">
