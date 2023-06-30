@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there 👋! Take a look here.
 
 - 🔭 Software Engineer | Competitive Programmer.
 - 🌱 Learning new technologies, and ready for any new opportunities.
