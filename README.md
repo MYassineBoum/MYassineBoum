@@ -59,7 +59,8 @@
   <a href="#"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" title="Dart" alt="Dart"/>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js"/>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express.js" alt="Express.js"/>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/jira-0275d8?style=for-the-badge&logo=jira&logoColor=white" title="Jira" alt="Jira"/>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" title="Jira" alt="Jira"/>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" title="Angular" alt="Angular"/>&nbsp;
 </div>
     
 ### :fire: Stats
