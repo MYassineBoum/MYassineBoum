@@ -7,9 +7,6 @@
 <p align="center">
   <a href="#"><img src="https://i.pinimg.com/originals/bb/93/8b/bb938bd50fcfedccd720641f5a824bba.gif"/></a>
 </p>
-<p align="center">
-<a align="center" href="#"><img src="https://github-profile-trophy.vercel.app/?username=myassineboum&theme=onedark"></a>
-</p>
 <br>
 <div align="center">
   <a href="https://github.com/MYassineBoum"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></a>
@@ -69,6 +66,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=myassineboum&theme=radical&show_icons=true"/></a>
   <br>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myassineboum&layout=compact&theme=radical"/></a>
+  <a align="center" href="#"><img src="https://github-profile-trophy.vercel.app/?username=myassineboum&theme=onedark"></a>
 </div> 
 
 
