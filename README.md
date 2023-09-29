@@ -5,9 +5,6 @@
 - 📫 Reach me at: myboumehdi.2002@gmail.com
 
 <p align="center">
-  <a href="#"><img src="https://i.pinimg.com/originals/bb/93/8b/bb938bd50fcfedccd720641f5a824bba.gif"/></a>
-</p>
-<p align="center">
   <a align="center" href="#"><img src="https://github-profile-trophy.vercel.app/?username=myassineboum&column=4&margin-w=15&margin-h=15&theme=radical"></a>
 </p>
 <br>
