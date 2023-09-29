@@ -64,7 +64,7 @@
 <div align="center" style="background-color: #3d15b0;">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=myassineboum&theme=radical&show_icons=true"/></a>
   <br>
-  <a align="center" href="#"><img src="https://github-profile-trophy.vercel.app/?username=myassineboum&theme=onedark"></a>
+  <a align="center" href="#"><img src="https://github-profile-trophy.vercel.app/?username=myassineboum&column=3&margin-w=15&margin-h=15&theme=monokai"></a>
 </div> 
 
 
