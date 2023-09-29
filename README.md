@@ -7,6 +7,9 @@
 <p align="center">
   <a href="#"><img src="https://i.pinimg.com/originals/bb/93/8b/bb938bd50fcfedccd720641f5a824bba.gif"/></a>
 </p>
+<p align="center">
+  <a align="center" href="#"><img src="https://github-profile-trophy.vercel.app/?username=myassineboum&column=3&margin-w=15&margin-h=15&theme=radical"></a>
+</p>
 <br>
 <div align="center">
   <a href="https://github.com/MYassineBoum"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></a>
@@ -25,7 +28,7 @@
 </div>
            
 
-### :hammer_and_wrench: Skills
+### :hammer_and_wrench: Tools & Skills
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/C%20language-323330?style=for-the-badge&logo=c&logoColor=F7DF1E" title="C" alt="C"/>&nbsp;
@@ -63,8 +66,6 @@
 ### :fire: Stats
 <div align="center" style="background-color: #3d15b0;">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=myassineboum&theme=radical&show_icons=true"/></a>
-  <br>
-  <a align="center" href="#"><img src="https://github-profile-trophy.vercel.app/?username=myassineboum&column=3&margin-w=15&margin-h=15&theme=monokai"></a>
 </div> 
 
 
