@@ -25,7 +25,7 @@
 </div>
            
 
-### :hammer_and_wrench: Tools & Skills
+### :hammer_and_wrench: Languages & Tools
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/C%20language-323330?style=for-the-badge&logo=c&logoColor=F7DF1E" title="C" alt="C"/>&nbsp;
