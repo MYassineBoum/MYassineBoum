@@ -61,6 +61,8 @@
   <a href="#"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" title="Kotlin" alt="Kotlin"/>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker"/>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" title="Kubernetes" alt="Kubernetes"/>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="ReactJS" alt="ReactJS"/>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" title="ViteJS" alt="ViteJS"/>&nbsp;
 </div>
     
 ### :fire: Stats
