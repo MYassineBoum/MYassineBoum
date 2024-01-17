@@ -63,6 +63,7 @@
   <a href="#"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" title="Kubernetes" alt="Kubernetes"/>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="ReactJS" alt="ReactJS"/>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" title="ViteJS" alt="ViteJS"/>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="Postgresql" alt="Postgresql"/>&nbsp;
 </div>
     
 ### :fire: Stats
