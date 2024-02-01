@@ -66,6 +66,7 @@
   <a href="#"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="Postgresql" alt="Postgresql"/>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange" title="GitLab" alt="GitLab"/>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=orange" title="TravisCI" alt="TravisCI"/>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" title="Jenkins" alt="Jenkins"/>&nbsp;
 </div>
     
 ### :fire: Stats
