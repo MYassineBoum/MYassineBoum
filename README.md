@@ -28,10 +28,10 @@
 ### :hammer_and_wrench: Languages & Tools
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/C%20language-323330?style=for-the-badge&logo=c&logoColor=F7DF1E" title="C" alt="C"/>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=F7DF1E" title="C++" alt="C++"/>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python"/>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java"/>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/C%20language-323330?style=for-the-badge&logo=c&logoColor=F7DF1E" title="C" alt="C"/>
+  <a href="#"><img src="https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=F7DF1E" title="C++" alt="C++"/>
+  <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python"/>
+  <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java"/>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
