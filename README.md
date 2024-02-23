@@ -72,11 +72,13 @@
 </div>
     
 ### :fire: Stats
-<div align="center" style="background-color: #3d15b0;">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=myassineboum&theme=radical&show_icons=true"/></a>
-</div> 
-<div align="center" style="background-color: #3d15b0;">
-<a href="#"><img src="https://streak-stats.demolab.com/?user=MYassineBoum&theme=radical"/></a>
-</div> 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="background-color: #3d15b0;">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=myassineboum&theme=radical&show_icons=true"/></a>
+  </div> 
+  <div style="background-color: #3d15b0;">
+    <a href="#"><img src="https://streak-stats.demolab.com/?user=MYassineBoum&theme=radical"/></a>
+  </div> 
+</div>
 
 
