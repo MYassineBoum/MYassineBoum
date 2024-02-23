@@ -75,5 +75,8 @@
 <div align="center" style="background-color: #3d15b0;">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=myassineboum&theme=radical&show_icons=true"/></a>
 </div> 
+<div align="center" style="background-color: #3d15b0;">
+<a href="#"><img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical)](https://git.io/streak-stats"/></a>
+</div> 
 
 
