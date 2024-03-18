@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" title="Jenkins" alt="Jenkins"/>&nbsp;
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" title="Kafka" alt="Kafka"/>&nbsp;
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" title="google-cloud" alt="google-cloud"/>&nbsp;
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" title="nginx" alt="nginx"/>&nbsp;
 </div>
 </div>
     
