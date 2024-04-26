@@ -25,7 +25,7 @@
 </div>
            
 
-### :hammer_and_wrench: Languages & Tools
+### :hammer_and_wrench: Languages, Frameworks & Tools
 
 <div align="center">
 <div align="center">
@@ -72,7 +72,7 @@
 </div>
 </div>
     
-### :fire: Stats
+### :fire: Statistics
 <table align="center">
   <tr>
     <td style="background-color: #3d15b0;">
