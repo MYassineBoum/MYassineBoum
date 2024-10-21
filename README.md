@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-- 🔭 I'm a -- Software Engineer | Competitive Programmer | Java, DevOps & Cloud technologies enthusiast.
+- 🔭 I'm a Software Engineer | Competitive Programmer | Java, DevOps & Cloud technologies enthusiast.
 - 🌱 Learning new technologies, and ready for any new opportunities.
 - 📫 Reach me at: myboumehdi.2002@gmail.com
 <br>
