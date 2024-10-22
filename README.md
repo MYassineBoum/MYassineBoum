@@ -12,7 +12,7 @@
   <a href="https://github.com/MYassineBoum"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/myassineboumehdi/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://twitter.com/@MedooIsBack"><img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://www.instagram.com/m_edya02/"><img src="https://img.shields.io/badge/Instagram-E76161?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/m_ed_ya/"><img src="https://img.shields.io/badge/Instagram-E76161?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://myboum.me/"><img src="https://img.shields.io/badge/website-643A6B?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
